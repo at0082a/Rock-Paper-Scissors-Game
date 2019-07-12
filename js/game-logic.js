@@ -16,6 +16,7 @@ let playerTwoMoveOneValue
 let playerTwoMoveTwoValue 
 let playerTwoMoveThreeValue 
 
+//outline move types, define exceptions and set movetypes and values in setPlayerMoves function
 
 function setPlayerMoves(player, moveOneType, moveOneValue, moveTwoType, moveTwoValue, moveThreeType, moveThreeValue) {
   let moveTypes = ['rock', 'paper', 'scissors']
